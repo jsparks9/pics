@@ -1,0 +1,1496 @@
+[
+  {
+    "productId": 1,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/1.jpg"
+  },
+  {
+    "productId": 2,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/10.jpg"
+  },
+  {
+    "productId": 3,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/11.jpg"
+  },
+  {
+    "productId": 4,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/12.jpg"
+  },
+  {
+    "productId": 5,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/13.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/13.jpg"
+  },
+  {
+    "productId": 6,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/14.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/14.jpg"
+  },
+  {
+    "productId": 7,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/15.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/15.jpg"
+  },
+  {
+    "productId": 8,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/16.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/16.jpg"
+  },
+  {
+    "productId": 9,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/17.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/17.jpg"
+  },
+  {
+    "productId": 10,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/18.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/18.jpg"
+  },
+  {
+    "productId": 11,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/19.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/19.jpg"
+  },
+  {
+    "productId": 12,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/2.jpg"
+  },
+  {
+    "productId": 13,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/20.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/20.jpg"
+  },
+  {
+    "productId": 14,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/3.jpg"
+  },
+  {
+    "productId": 15,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/4.jpg"
+  },
+  {
+    "productId": 16,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/5.jpg"
+  },
+  {
+    "productId": 17,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/6.jpg"
+  },
+  {
+    "productId": 18,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/7.jpg"
+  },
+  {
+    "productId": 19,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/8.jpg"
+  },
+  {
+    "productId": 20,
+    "category": "CLOUD",
+    "name": "cloud picture",
+    "description": "cloud picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/cloud/medium/9.jpg"
+  },
+  {
+    "productId": 21,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/1.jpg"
+  },
+  {
+    "productId": 22,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/2.jpg"
+  },
+  {
+    "productId": 23,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/3.jpg"
+  },
+  {
+    "productId": 24,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/4.jpg"
+  },
+  {
+    "productId": 25,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/5.jpg"
+  },
+  {
+    "productId": 26,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/6.jpg"
+  },
+  {
+    "productId": 27,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/7.jpg"
+  },
+  {
+    "productId": 28,
+    "category": "DAWN",
+    "name": "dawn picture",
+    "description": "dawn picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/8.jpg"
+  },
+  {
+    "productId": 29,
+    "category": "DAWN",
+    "name": "Amazon Rain Forest",
+    "description": "Amazon Rain Forest",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Amazon%20Rain%20Forest.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Amazon%20Rain%20Forest.jpg"
+  },
+  {
+    "productId": 30,
+    "category": "DAWN",
+    "name": "australia-shoalhaven-heads",
+    "description": "australia-shoalhaven-heads",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/australia-shoalhaven-heads.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/australia-shoalhaven-heads.jpg"
+  },
+  {
+    "productId": 31,
+    "category": "DAWN",
+    "name": "Cocoa Beach, FL, USA",
+    "description": "Cocoa Beach, FL, USA",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Cocoa%20Beach%2C%20FL%2C%20USA.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Cocoa%20Beach%2C%20FL%2C%20USA.jpg"
+  },
+  {
+    "productId": 32,
+    "category": "DAWN",
+    "name": "Emerald Bay State Park, South Lake Tahoe, United States",
+    "description": "Emerald Bay State Park, South Lake Tahoe, United States",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Emerald%20Bay%20State%20Park%2C%20South%20Lake%20Tahoe%2C%20United%20States.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Emerald%20Bay%20State%20Park%2C%20South%20Lake%20Tahoe%2C%20United%20States.jpg"
+  },
+  {
+    "productId": 33,
+    "category": "DAWN",
+    "name": "Luttach, Italy from balcony",
+    "description": "Luttach, Italy from balcony",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Luttach%2C%20Italy%20from%20balcony.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Luttach%2C%20Italy%20from%20balcony.jpg"
+  },
+  {
+    "productId": 34,
+    "category": "DAWN",
+    "name": "morning Nepal",
+    "description": "morning Nepal",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/morning%20Nepal.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/morning%20Nepal.jpg"
+  },
+  {
+    "productId": 35,
+    "category": "DAWN",
+    "name": "Mount Tamalpais, United States",
+    "description": "Mount Tamalpais, United States",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Mount%20Tamalpais%2C%20United%20States.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Mount%20Tamalpais%2C%20United%20States.jpg"
+  },
+  {
+    "productId": 36,
+    "category": "DAWN",
+    "name": "Mt Mitchell State Park, Burnsville, United States",
+    "description": "Mt Mitchell State Park, Burnsville, United States",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Mt%20Mitchell%20State%20Park%2C%20Burnsville%2C%20United%20States.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Mt%20Mitchell%20State%20Park%2C%20Burnsville%2C%20United%20States.jpg"
+  },
+  {
+    "productId": 37,
+    "category": "DAWN",
+    "name": "Pacific Northwest",
+    "description": "Pacific Northwest",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Pacific%20Northwest.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Pacific%20Northwest.jpg"
+  },
+  {
+    "productId": 38,
+    "category": "DAWN",
+    "name": "San Diego, United States",
+    "description": "San Diego, United States",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/San%20Diego%2C%20United%20States.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/San%20Diego%2C%20United%20States.jpg"
+  },
+  {
+    "productId": 39,
+    "category": "DAWN",
+    "name": "Summer time Adrasan, Turkey",
+    "description": "Summer time Adrasan, Turkey",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Summer%20time%20Adrasan%2C%20Turkey.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Summer%20time%20Adrasan%2C%20Turkey.jpg"
+  },
+  {
+    "productId": 40,
+    "category": "DAWN",
+    "name": "Toluca, Mexico",
+    "description": "Toluca, Mexico",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/small/Toluca%2C%20Mexico.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dawn/medium/Toluca%2C%20Mexico.jpg"
+  },
+  {
+    "productId": 41,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/1.jpg"
+  },
+  {
+    "productId": 42,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/10.jpg"
+  },
+  {
+    "productId": 43,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/11.jpg"
+  },
+  {
+    "productId": 44,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/12.jpg"
+  },
+  {
+    "productId": 45,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/2.jpg"
+  },
+  {
+    "productId": 46,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/3.jpg"
+  },
+  {
+    "productId": 47,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/4.jpg"
+  },
+  {
+    "productId": 48,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/5.jpg"
+  },
+  {
+    "productId": 49,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/6.jpg"
+  },
+  {
+    "productId": 50,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/7.jpg"
+  },
+  {
+    "productId": 51,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/8.jpg"
+  },
+  {
+    "productId": 52,
+    "category": "DAY",
+    "name": "day picture",
+    "description": "day picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/9.jpg"
+  },
+  {
+    "productId": 53,
+    "category": "DAY",
+    "name": "Almaty Region, Kazakhstan",
+    "description": "Almaty Region, Kazakhstan",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Almaty%20Region%2C%20Kazakhstan.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Almaty%20Region%2C%20Kazakhstan.jpg"
+  },
+  {
+    "productId": 54,
+    "category": "DAY",
+    "name": "Baloons",
+    "description": "Baloons",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Baloons.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Baloons.jpg"
+  },
+  {
+    "productId": 55,
+    "category": "DAY",
+    "name": "Castaic Lake, California, USA",
+    "description": "Castaic Lake, California, USA",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Castaic%20Lake%2C%20California%2C%20USA.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Castaic%20Lake%2C%20California%2C%20USA.jpg"
+  },
+  {
+    "productId": 56,
+    "category": "DAY",
+    "name": "Crissy Field, San Francisco, United States",
+    "description": "Crissy Field, San Francisco, United States",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Crissy%20Field%2C%20San%20Francisco%2C%20United%20States.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Crissy%20Field%2C%20San%20Francisco%2C%20United%20States.jpg"
+  },
+  {
+    "productId": 57,
+    "category": "DAY",
+    "name": "Gava, Spain",
+    "description": "Gava, Spain",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Gava%2C%20Spain.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Gava%2C%20Spain.jpg"
+  },
+  {
+    "productId": 58,
+    "category": "DAY",
+    "name": "Giraffe",
+    "description": "Giraffe",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Giraffe.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Giraffe.jpg"
+  },
+  {
+    "productId": 59,
+    "category": "DAY",
+    "name": "Lighthouse",
+    "description": "Lighthouse",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Lighthouse.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Lighthouse.jpg"
+  },
+  {
+    "productId": 60,
+    "category": "DAY",
+    "name": "Seaford, UK",
+    "description": "Seaford, UK",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/small/Seaford%2C%20UK.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/day/medium/Seaford%2C%20UK.jpg"
+  },
+  {
+    "productId": 61,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/1.jpg"
+  },
+  {
+    "productId": 62,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/10.jpg"
+  },
+  {
+    "productId": 63,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/11.jpg"
+  },
+  {
+    "productId": 64,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/2.jpg"
+  },
+  {
+    "productId": 65,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/3.jpg"
+  },
+  {
+    "productId": 66,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/4.jpg"
+  },
+  {
+    "productId": 67,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/5.jpg"
+  },
+  {
+    "productId": 68,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/6.jpg"
+  },
+  {
+    "productId": 69,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/7.jpg"
+  },
+  {
+    "productId": 70,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/8.jpg"
+  },
+  {
+    "productId": 71,
+    "category": "DUSK",
+    "name": "dusk picture",
+    "description": "dusk picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/9.jpg"
+  },
+  {
+    "productId": 72,
+    "category": "DUSK",
+    "name": "Ankara, Türkiye",
+    "description": "Ankara, Türkiye",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Ankara%2C%20Türkiye.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Ankara%2C%20Türkiye.jpg"
+  },
+  {
+    "productId": 73,
+    "category": "DUSK",
+    "name": "Countryside summer",
+    "description": "Countryside summer",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Countryside%20summer.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Countryside%20summer.jpg"
+  },
+  {
+    "productId": 74,
+    "category": "DUSK",
+    "name": "Dawn dusk sunset view from hilly coastline",
+    "description": "Dawn dusk sunset view from hilly coastline",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Dawn%20dusk%20sunset%20view%20from%20hilly%20coastline.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Dawn%20dusk%20sunset%20view%20from%20hilly%20coastline.jpg"
+  },
+  {
+    "productId": 75,
+    "category": "DUSK",
+    "name": "Dique de Ullum, San Juan, Argentina",
+    "description": "Dique de Ullum, San Juan, Argentina",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Dique%20de%20Ullum%2C%20San%20Juan%2C%20Argentina.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Dique%20de%20Ullum%2C%20San%20Juan%2C%20Argentina.jpg"
+  },
+  {
+    "productId": 76,
+    "category": "DUSK",
+    "name": "Haaksbergen, Haaksbergen, Nederland",
+    "description": "Haaksbergen, Haaksbergen, Nederland",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Haaksbergen%2C%20Haaksbergen%2C%20Nederland.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Haaksbergen%2C%20Haaksbergen%2C%20Nederland.jpg"
+  },
+  {
+    "productId": 77,
+    "category": "DUSK",
+    "name": "La Jolla, California",
+    "description": "La Jolla, California",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/La%20Jolla%2C%20California.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/La%20Jolla%2C%20California.jpg"
+  },
+  {
+    "productId": 78,
+    "category": "DUSK",
+    "name": "Melrose, US orange sunset",
+    "description": "Melrose, US orange sunset",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Melrose%2C%20US%20orange%20sunset.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Melrose%2C%20US%20orange%20sunset.jpg"
+  },
+  {
+    "productId": 79,
+    "category": "DUSK",
+    "name": "Melrose, USA",
+    "description": "Melrose, USA",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Melrose%2C%20USA.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Melrose%2C%20USA.jpg"
+  },
+  {
+    "productId": 80,
+    "category": "DUSK",
+    "name": "Sestroretsk, Russia",
+    "description": "Sestroretsk, Russia",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Sestroretsk%2C%20Russia.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Sestroretsk%2C%20Russia.jpg"
+  },
+  {
+    "productId": 81,
+    "category": "DUSK",
+    "name": "Shelly Beach, Coromandel, New Zealand",
+    "description": "Shelly Beach, Coromandel, New Zealand",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Shelly%20Beach%2C%20Coromandel%2C%20New%20Zealand.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Shelly%20Beach%2C%20Coromandel%2C%20New%20Zealand.jpg"
+  },
+  {
+    "productId": 82,
+    "category": "DUSK",
+    "name": "Sundbyberg, Sweden, Duvbo",
+    "description": "Sundbyberg, Sweden, Duvbo",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Sundbyberg%2C%20Sweden%2C%20Duvbo.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Sundbyberg%2C%20Sweden%2C%20Duvbo.jpg"
+  },
+  {
+    "productId": 112,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/16.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/16.jpg"
+  },
+  {
+    "productId": 83,
+    "category": "DUSK",
+    "name": "Sunset at Champion park, Austin, Texas",
+    "description": "Sunset at Champion park, Austin, Texas",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Sunset%20at%20Champion%20park%2C%20Austin%2C%20Texas.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Sunset%20at%20Champion%20park%2C%20Austin%2C%20Texas.jpg"
+  },
+  {
+    "productId": 84,
+    "category": "DUSK",
+    "name": "Uluru, Petermann Northern Territory, Australia",
+    "description": "Uluru, Petermann Northern Territory, Australia",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/small/Uluru%2C%20Petermann%20Northern%20Territory%2C%20Australia.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/dusk/medium/Uluru%2C%20Petermann%20Northern%20Territory%2C%20Australia.jpg"
+  },
+  {
+    "productId": 85,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/1.jpg"
+  },
+  {
+    "productId": 86,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/10.jpg"
+  },
+  {
+    "productId": 87,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/11.jpg"
+  },
+  {
+    "productId": 88,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/12.jpg"
+  },
+  {
+    "productId": 89,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/13.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/13.jpg"
+  },
+  {
+    "productId": 90,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/14.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/14.jpg"
+  },
+  {
+    "productId": 91,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/15.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/15.jpg"
+  },
+  {
+    "productId": 92,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/16.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/16.jpg"
+  },
+  {
+    "productId": 93,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/17.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/17.jpg"
+  },
+  {
+    "productId": 94,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/18.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/18.jpg"
+  },
+  {
+    "productId": 95,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/19.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/19.jpg"
+  },
+  {
+    "productId": 96,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/2.jpg"
+  },
+  {
+    "productId": 97,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/20.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/20.jpg"
+  },
+  {
+    "productId": 98,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/3.jpg"
+  },
+  {
+    "productId": 99,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/4.jpg"
+  },
+  {
+    "productId": 100,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/5.jpg"
+  },
+  {
+    "productId": 101,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/6.jpg"
+  },
+  {
+    "productId": 102,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/7.jpg"
+  },
+  {
+    "productId": 103,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/8.jpg"
+  },
+  {
+    "productId": 104,
+    "category": "MOON",
+    "name": "moon picture",
+    "description": "moon picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/moon/medium/9.jpg"
+  },
+  {
+    "productId": 105,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/1.jpg"
+  },
+  {
+    "productId": 106,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/10.jpg"
+  },
+  {
+    "productId": 107,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/11.jpg"
+  },
+  {
+    "productId": 108,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/12.jpg"
+  },
+  {
+    "productId": 109,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/13.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/13.jpg"
+  },
+  {
+    "productId": 110,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/14.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/14.jpg"
+  },
+  {
+    "productId": 111,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/15.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/15.jpg"
+  },
+  {
+    "productId": 113,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/17.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/17.jpg"
+  },
+  {
+    "productId": 114,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/18.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/18.jpg"
+  },
+  {
+    "productId": 115,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/19.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/19.jpg"
+  },
+  {
+    "productId": 116,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/2.jpg"
+  },
+  {
+    "productId": 117,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/20.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/20.jpg"
+  },
+  {
+    "productId": 118,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/3.jpg"
+  },
+  {
+    "productId": 119,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/4.jpg"
+  },
+  {
+    "productId": 120,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/5.jpg"
+  },
+  {
+    "productId": 121,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/6.jpg"
+  },
+  {
+    "productId": 122,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/7.jpg"
+  },
+  {
+    "productId": 123,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/8.jpg"
+  },
+  {
+    "productId": 124,
+    "category": "NIGHT",
+    "name": "night picture",
+    "description": "night picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/night/medium/9.jpg"
+  },
+  {
+    "productId": 125,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/1.jpg"
+  },
+  {
+    "productId": 126,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/10.jpg"
+  },
+  {
+    "productId": 127,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/11.jpg"
+  },
+  {
+    "productId": 128,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/12.jpg"
+  },
+  {
+    "productId": 129,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/13.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/13.jpg"
+  },
+  {
+    "productId": 130,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/14.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/14.jpg"
+  },
+  {
+    "productId": 131,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/15.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/15.jpg"
+  },
+  {
+    "productId": 132,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/2.jpg"
+  },
+  {
+    "productId": 133,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/3.jpg"
+  },
+  {
+    "productId": 134,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/4.jpg"
+  },
+  {
+    "productId": 135,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/5.jpg"
+  },
+  {
+    "productId": 136,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/6.jpg"
+  },
+  {
+    "productId": 137,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/7.jpg"
+  },
+  {
+    "productId": 138,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/8.jpg"
+  },
+  {
+    "productId": 139,
+    "category": "SPACE",
+    "name": "space picture",
+    "description": "space picture",
+    "price": 2.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/9.jpg"
+  },
+  {
+    "productId": 140,
+    "category": "SPACE",
+    "name": "A simulated view of Mars as it would be seen from the Mars Global Surveyor spacecraft",
+    "description": "A simulated view of Mars as it would be seen from the Mars Global Surveyor spacecraft",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/A%20simulated%20view%20of%20Mars%20as%20it%20would%20be%20seen%20from%20the%20Mars%20Global%20Surveyor%20spacecraft.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/A%20simulated%20view%20of%20Mars%20as%20it%20would%20be%20seen%20from%20the%20Mars%20Global%20Surveyor%20spacecraft.jpg"
+  },
+  {
+    "productId": 141,
+    "category": "SPACE",
+    "name": "Jupiter",
+    "description": "Jupiter",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Jupiter.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Jupiter.jpg"
+  },
+  {
+    "productId": 142,
+    "category": "SPACE",
+    "name": "Mercury",
+    "description": "Mercury",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Mercury.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Mercury.jpg"
+  },
+  {
+    "productId": 143,
+    "category": "SPACE",
+    "name": "Neptune",
+    "description": "Neptune",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Neptune.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Neptune.jpg"
+  },
+  {
+    "productId": 144,
+    "category": "SPACE",
+    "name": "Pluto",
+    "description": "Pluto",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Pluto.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Pluto.jpg"
+  },
+  {
+    "productId": 145,
+    "category": "SPACE",
+    "name": "Saturn",
+    "description": "Saturn",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Saturn.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Saturn.jpg"
+  },
+  {
+    "productId": 146,
+    "category": "SPACE",
+    "name": "Uranus as seen by Voyager 2",
+    "description": "Uranus as seen by Voyager 2",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/small/Uranus%20as%20seen%20by%20Voyager%202.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/space/medium/Uranus%20as%20seen%20by%20Voyager%202.jpg"
+  },
+  {
+    "productId": 147,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/1.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/1.jpg"
+  },
+  {
+    "productId": 148,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/10.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/10.jpg"
+  },
+  {
+    "productId": 149,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/11.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/11.jpg"
+  },
+  {
+    "productId": 150,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/12.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/12.jpg"
+  },
+  {
+    "productId": 151,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/13.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/13.jpg"
+  },
+  {
+    "productId": 152,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/14.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/14.jpg"
+  },
+  {
+    "productId": 153,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/15.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/15.jpg"
+  },
+  {
+    "productId": 154,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/16.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/16.jpg"
+  },
+  {
+    "productId": 155,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/17.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/17.jpg"
+  },
+  {
+    "productId": 156,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/18.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/18.jpg"
+  },
+  {
+    "productId": 157,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/19.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/19.jpg"
+  },
+  {
+    "productId": 158,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/2.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/2.jpg"
+  },
+  {
+    "productId": 159,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/20.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/20.jpg"
+  },
+  {
+    "productId": 160,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/3.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/3.jpg"
+  },
+  {
+    "productId": 161,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 2.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/4.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/4.jpg"
+  },
+  {
+    "productId": 162,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/5.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/5.jpg"
+  },
+  {
+    "productId": 163,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/6.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/6.jpg"
+  },
+  {
+    "productId": 164,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 1.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/7.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/7.jpg"
+  },
+  {
+    "productId": 165,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.45,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/8.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/8.jpg"
+  },
+  {
+    "productId": 166,
+    "category": "SUN",
+    "name": "sun picture",
+    "description": "sun picture",
+    "price": 0.95,
+    "imgUrlSmall": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/small/9.jpg",
+    "imgUrlMed": "https://raw.githubusercontent.com/jsparks9/pics/main/images-by-category/sun/medium/9.jpg"
+  }
+]

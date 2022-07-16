@@ -1,0 +1,162 @@
+[
+  {
+    "product_id": 1,
+    "category": "CATEGORY2",
+    "name": "Product 1",
+    "description": "Desc for product 1",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/1.jpg"
+  },
+  {
+    "product_id": 2,
+    "category": "CATEGORY3",
+    "name": "Product 2",
+    "description": "Desc for product 2",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/2.jpg"
+  },
+  {
+    "product_id": 3,
+    "category": "CATEGORY1",
+    "name": "Product 3",
+    "description": "Desc for product 3",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/3.jpg"
+  },
+  {
+    "product_id": 4,
+    "category": "CATEGORY2",
+    "name": "Product 4",
+    "description": "Desc for product 4",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/4.jpg"
+  },
+  {
+    "product_id": 5,
+    "category": "CATEGORY3",
+    "name": "Product 5",
+    "description": "Desc for product 5",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/5.jpg"
+  },
+  {
+    "product_id": 6,
+    "category": "CATEGORY1",
+    "name": "Product 6",
+    "description": "Desc for product 6",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/6.jpg"
+  },
+  {
+    "product_id": 7,
+    "category": "CATEGORY2",
+    "name": "Product 7",
+    "description": "Desc for product 7",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/7.jpg"
+  },
+  {
+    "product_id": 8,
+    "category": "CATEGORY3",
+    "name": "Product 8",
+    "description": "Desc for product 8",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/8.jpg"
+  },
+  {
+    "product_id": 9,
+    "category": "CATEGORY1",
+    "name": "Product 9",
+    "description": "Desc for product 9",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/9.jpg"
+  },
+  {
+    "product_id": 10,
+    "category": "CATEGORY2",
+    "name": "Product 10",
+    "description": "Desc for product 10",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/10.jpg"
+  },
+  {
+    "product_id": 11,
+    "category": "CATEGORY3",
+    "name": "Product 11",
+    "description": "Desc for product 11",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/11.jpg"
+  },
+  {
+    "product_id": 12,
+    "category": "CATEGORY1",
+    "name": "Product 12",
+    "description": "Desc for product 12",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/12.jpg"
+  },
+  {
+    "product_id": 13,
+    "category": "CATEGORY2",
+    "name": "Product 13",
+    "description": "Desc for product 13",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/13.jpg"
+  },
+  {
+    "product_id": 14,
+    "category": "CATEGORY3",
+    "name": "Product 14",
+    "description": "Desc for product 14",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/14.jpg"
+  },
+  {
+    "product_id": 15,
+    "category": "CATEGORY1",
+    "name": "Product 15",
+    "description": "Desc for product 15",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/15.jpg"
+  },
+  {
+    "product_id": 16,
+    "category": "CATEGORY2",
+    "name": "Product 16",
+    "description": "Desc for product 16",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/16.jpg"
+  },
+  {
+    "product_id": 17,
+    "category": "CATEGORY3",
+    "name": "Product 17",
+    "description": "Desc for product 17",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/17.jpg"
+  },
+  {
+    "product_id": 18,
+    "category": "CATEGORY1",
+    "name": "Product 18",
+    "description": "Desc for product 18",
+    "price": 0,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/18.jpg"
+  },
+  {
+    "product_id": 19,
+    "category": "CATEGORY2",
+    "name": "Product 19",
+    "description": "Desc for product 19",
+    "price": 1.95,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/19.jpg"
+  },
+  {
+    "product_id": 20,
+    "category": "CATEGORY3",
+    "name": "Product 20",
+    "description": "Desc for product 20",
+    "price": 1.5,
+    "image_url": "https://raw.githubusercontent.com/jsparks9/pics/main/images/20.jpg"
+  }
+]
